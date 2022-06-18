@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965499432204",
+    "project_id": "pokelogin-9d159",
+    "storage_bucket": "pokelogin-9d159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965499432204:android:5b8f3d2e8abc6e8c1aed29",
+        "android_client_info": {
+          "package_name": "com.LazyFace.PokeTestAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965499432204-6fhgcqarqjdoatei258d62a1t2dnccla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Qa67K4V1Lkit3un3kFJe9zr--HYALeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965499432204-6fhgcqarqjdoatei258d62a1t2dnccla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
